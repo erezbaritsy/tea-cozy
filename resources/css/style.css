@@ -4,8 +4,9 @@ body{
   color:seashell;
   background-color: black;
   opacity: 0.9;
-  width: 100%;
+  width: 1350px;
   margin: 0 auto;
+
 }
 main{
   position: relative;
@@ -22,6 +23,7 @@ nav{
   align-items: center;
   border-bottom: 1px solid seashell;
   top:0;
+
 }
 nav a{
   text-decoration: underline;
@@ -29,7 +31,7 @@ nav a{
 }
 nav img{
   height: 50px;
-  margin-left: 10px;
+  margin-left: 15px;
 }
 li{
   display: inline-block;
@@ -111,4 +113,5 @@ footer{
 
 .copyR{
   text-align: left;
+  margin-left: 10px;
 }
